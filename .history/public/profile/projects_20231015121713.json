@@ -1,0 +1,95 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/project1.png",
+            "title": "Word Counter",
+            "bodyText": "\n - Word Counter that is used to count \n How many Number of words in this and it works like \n Increases as words typing increases and when deleting words decrease and\n decrease as words decrease.\n - Deployed on **vercel** using **github**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Rocky1609/reactjs-task-1"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://reactjs-task-1-liart.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "WordCounter",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/project2.png",
+            "title": "Calculator",
+            "bodyText": "- A Calculator web app made using **React** for **All** Students. People can calculate arthemtic operations using this.\n - Deployed on **vercel** using **github**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Rocky1609/reactjs-task-2"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://reactjs-task-2.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "React",
+                "Calculator"
+            ]
+        },
+        {
+            "image" : "images/projects/project3.png",
+            "title": "Color Picker",
+            "bodyText": "- An Color Picker App that is used to pick colors you want and it displays the color you click \n - deployed on **vercel** using .",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Rocky1609/reactjs-task-3"
+                }
+                
+                
+            ],
+            "tags" : [
+                "JavaScript",
+                "Color Changer","React"
+            ]
+        },
+        {
+            "image" : "images/projects/project4.png",
+            "title": "Dummy Data",
+            "bodyText": "- An Dummy Data fetched using a dummy json link.\n - Fetched using **dummyjson** and stored in table.\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Rocky1609/reactjs-task-4"
+                }
+            ],
+            "tags" : [
+                "json",
+                "dummy data",
+                "react",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/project5.png",
+            "title": "Age Calculator",
+            "bodyText": "- An Age Calculator App that calculates age of you by your date of birth given to it as input\n - implemented by  using  **React**.\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Rocky1609/reactjs-task-5"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Age Calculator",
+                "JavaScript"
+            ]
+        }
+        
+    ]
+}

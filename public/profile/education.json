@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Aug 2021 - May 2025",
+            "cardTitle": "B.Tech, Computer Science Specialization in Ai&ML",
+            "cardSubtitle":"Vellore Institute Of Technology,Vellore",
+            "cardDetailedText": "CGPA - 7.43",
+            "icon" : {
+                "src": "images/education/vitclg.png"
+            }
+        },
+        {
+            "title": "Jun 2019 - May 2021",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"DEEKSHA ACADEMY , HYDERABAD",
+            "cardDetailedText": "Marks 90%"
+        }
+    ]
+}

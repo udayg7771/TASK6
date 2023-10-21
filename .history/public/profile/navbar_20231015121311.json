@@ -1,0 +1,36 @@
+{
+    "logo" : {
+        "source": "images/myphoto.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+       
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1-ISADkhu_7119a2S9qn-jV08ee5BGJqz/view",
+            "type": "link"
+        }
+    ]
+
+}

@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Sep 2021 - Jun 2025",
+            "cardTitle": "B.Tech, Computer Science Specialization in Information Security",
+            "cardSubtitle":"Vellore Institute Of Technology,Vellore",
+            "cardDetailedText": "CGPA - 8.95",
+            "icon" : {
+                "src": "images/education/vitclg.png"
+            }
+        },
+        {
+            "title": "Jun 2019 - July 2021",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Narayana Junior College,Vijayawada",
+            "cardDetailedText": "Marks 97%"
+        }
+    ]
+}

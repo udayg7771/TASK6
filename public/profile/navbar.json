@@ -1,0 +1,36 @@
+{
+    "logo" : {
+        "source": "images/about/uday.png",
+        "height" : 60,
+        "width" : 60
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+       
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "#",
+            "type": "link"
+        }
+    ]
+
+}

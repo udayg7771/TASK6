@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/sai-rakesh-marlapati-8a596b231/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Rocky1609"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:sairakesh419@gmail.com"
+        }
+    ]
+}
